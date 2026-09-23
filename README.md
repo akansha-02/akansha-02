@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Akansha Gupta 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+VIT+Bhopal;Full-Stack+Developer+(MERN);Building+AI-Integrated+Applications;Ex-SWE+Intern+%40+Sopra+Steria" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+VIT+Bhopal;Full-Stack+Developer+(MERN);Building+AI-Integrated+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,24 +27,11 @@
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=akansha-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akansha-02&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=akansha-02&theme=tokyonight&hide_border=true" /> </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akansha-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akansha-02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akansha-02&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akansha-02/akansha-02/output/github-contribution-grid-snake-dark.svg" />
-</p>
+📈 Animated Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akansha-02&theme=tokyo-night&hide_border=true&area=true" /> </p>
 
 ---
 
@@ -56,6 +43,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akansha-02&style=flat-square&color=6366F1" alt="profile views" />
-</p>
+
